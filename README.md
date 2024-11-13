@@ -6,6 +6,8 @@ Features:
   - Computes the average grade for each student in the array
   - Uses Bubble Sort to sort each student according to average grade
   - Stores the student # with the median grade of the array
+
+Completed as part of a course in Computer Information Systems.
     
 <br>
 <b>See video preview</b>:
