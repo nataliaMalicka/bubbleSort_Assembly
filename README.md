@@ -1,12 +1,12 @@
 # Bubble Sort in Assembly-SM213 
 
-<b>Alien Invasion</b> is a Space Invaders style game built with Pygame using a class-based approach. 
-<br>
+Bubble Sort swapping in assembly-like SM213 language
 
 Features:
   - Computes the average grade for each student in the array
   - Uses Bubble Sort to sort each student according to average grade
   - Stores the student # with the median grade of the array
+    
 <br>
 <b>See video preview</b>:
 
