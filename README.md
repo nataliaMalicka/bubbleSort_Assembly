@@ -15,6 +15,6 @@ Features:
 <br>
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=meHyqYl2tCI](https://youtu.be/zJXWIt3Ht2g
-" target="_blank"><img src="[http://img.youtube.com/vi/meHyqYl2tCI/0.jpg](https://img.youtube.com/vi/zJXWIt3Ht2g/maxresdefault.jpg)" width="480" height="360" border="10" /></a>
+" target="_blank"><img src="https://img.youtube.com/vi/zJXWIt3Ht2g/maxresdefault.jpg" width="480" height="360" border="10" /></a>
 
 
